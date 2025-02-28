@@ -31,6 +31,7 @@ Correo electrónico: gary.villegasb@gmail.com
 ### **Habilidades Técnicas**
 **Herramientas de Software**
 - Microsoft Word, Excel, PowerPoint, VScode
+
 **Desarrollo**
 - Django
 - Python
