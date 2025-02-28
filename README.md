@@ -1,5 +1,9 @@
-## Hi there 👋
+##Gary Villegas Ingeniero en Informática en Formación
 
+###Sobre Mí
+Soy estudiante de Ingeniería en Informática apasionado por la resolución de problemas y el aprendizaje continuo. Me destaco por mi proactividad, capacidad para trabajar en equipo y aprendizaje autónomo.
+
+###Contacto
 <!--
 **GaryVillegas/GaryVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
