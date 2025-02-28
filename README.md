@@ -14,9 +14,9 @@ Correo electrónico: gary.villegasb@gmail.com
 - Aprendiz Autonomo
 
 ### **Experiencia Laboral**
-  **Soporte Técnico - Empresas Salcobrand (12 meses)**
+**Soporte Técnico - Empresas Salcobrand (12 meses)**
 - Proporcioné servicios de soporte técnico, resolviendo problemas de hardware y software para los empleados de la empresa.
-  ** Reponedor Vacacional - Tresmontes Luchetti (12 meses)**
+** Reponedor Vacacional - Tresmontes Luchetti (12 meses)**
 - Mantuve y organizé los productos en las estanterías de los supermercados, asegurando la disponibilidad y presentación adecuada de los artículos.
 
 ### **Educación**
