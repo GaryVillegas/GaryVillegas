@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sobre Mí<br><br>Soy estudiante de Ingeniería en Informática apasionado por la resolución de problemas y el aprendizaje continuo. Me destaco por mi proactividad, capacidad para trabajar en equipo y aprendizaje autónomo.<br>
+<br>Soy estudiante de Ingeniería en Informática apasionado por la resolución de problemas y el aprendizaje continuo. Me destaco por mi proactividad, capacidad para trabajar en equipo y aprendizaje autónomo.<br>
 
 ### Contacto<br><br>Correo electrónico: gary.villegasb@gmail.com<br>
 
