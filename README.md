@@ -4,7 +4,7 @@
 ### Contacto<br><br>Correo electrónico: gary.villegasb@gmail.com<br>
 
 ### Aptitudes<br><br>    Proactividad<br>    Solucionador Rápido<br>    Trabajo en Equipo<br>    Capacidad de Aprendizaje<br>    Aprendiz Autonomo<br><br>
-### Idiomas<br><br>    Español (nativo)<br>    Inglés (intermedio)<br>
+### Idiomas<br><br>    Español (nativo)<br>    Inglés (Avanzado)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gary-villegas-5a2b31274/) 
